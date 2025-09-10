@@ -1,5 +1,7 @@
 # Air-Safari
  **All details of the **Air Safari** project can be found in the ipynb and html file named "Final Guide" .In this guide , the core ideas, utilities and processes are explained**. 
+
+ 
 Air Safari is, in a few words, a framework for 3D aerodynamic analyses that includes calculation of 3D viscous drag .
 
 *  It must be noted that the code is run only with the V2 versions and  OLD VERSION files cannot be implemented with the current structure. 
