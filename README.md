@@ -4,11 +4,11 @@
  
 Air Safari is, in a few words, a framework for 3D aerodynamic analyses that includes calculation of 3D viscous drag .
 
-**H
+**Notes before using**
 *  It must be noted that the code is run only with the V2 versions and  OLD VERSION files cannot be implemented with the current structure. 
 *  If you want to run this code , you need to check the **paths** file located in the **"AVL other"** folder. In this file, all the needed paths for system,avl,xfoil, output are given and are completely defined by the user. The paths are defined once in this file manually and no other hard coding of paths is required.
 *  Errors might occur , especially for other users due to the dila pathing and naming nature of the code's modules.
-* Full code with all processes should take about 1 minute to be fully complete, depending on the AoA range and strip number you select.
+* Full code with all processes should take about 1 minute to be fully complete, depending on the AoA range and strip number you select.(larger AoA range,higher strip number amount==> higher run time)
 
 **Future Work** 
 * Implement performance related modules
